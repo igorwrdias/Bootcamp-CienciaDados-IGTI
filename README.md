@@ -18,7 +18,7 @@ No **Módulo 1** foram apresentados conceitos iniciais de ciência de dados, pro
 
 O **Trabalho Prático** foi dividido em dois pontos: 
 
-1. No entendimento do algoritmo K-Means, como clusterizar grupos interligados e encontrar o melhor agrupamento;
+1. Entendimento do algoritmo K-Means, como clusterizar grupos interligados e encontrar o melhor agrupamento;
 
 2. Análise exploratória de dados para o Dataset [**"Novel Corona Virus 2019"**](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv).
 
@@ -26,7 +26,7 @@ O **Desafio** foi dividido em em dois pontos:
 
 1. Análise exploratória de dados para o Dataset [**"Stack Overflow Annual Developer Survey - 2020"**](https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view?usp=sharing);
 
-2. Consultas a um banco de dados utilizando SQL.
+2. Consultas de um banco de dados utilizando SQL.
 
 * ## **Módulo 2** - Coleta e Obtenção de Dados 
 
