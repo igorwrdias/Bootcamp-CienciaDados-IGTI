@@ -12,7 +12,7 @@ Seguindo o projeto pedagógico, o Bootcamp Online – IGTI é voltado para a pr�
 
 O conteúdo e as atividades práticas do Bootcamp estão organizados em 5 módulos:
 
-* **Módulo 1** - Fundamentos 
+## * **Módulo 1** - Fundamentos 
 
 No **Módulo 1** foram apresentados conceitos iniciais de ciência de dados, processamento paralelo, banco de dados SQL e NoSQL, as diferenças entre os tipos de aprendizado de máquina, versando sobre as diferenças de análise, cases de sucesso e o papel do cientista de dados moderno dentro do mercado de trabalho.
 
@@ -28,12 +28,12 @@ O **Desafio** foi dividido em em dois pontos:
 
 2. Consultas a um banco de dados utilizando SQL.
 
-* **Módulo 2** - Coleta e Obtenção de Dados 
+## * **Módulo 2** - Coleta e Obtenção de Dados 
 
-* **Módulo 3** - Processamento de Dados Utilizando o Ecossistema Hadoop
+## * **Módulo 3** - Processamento de Dados Utilizando o Ecossistema Hadoop
 
-* **Módulo 4** - Técnicas para o Processamento de Big Data
+## * **Módulo 4** - Técnicas para o Processamento de Big Data
 
-* **Módulo 5** - Desafio Final
+## * **Módulo 5** - Desafio Final
 
 
