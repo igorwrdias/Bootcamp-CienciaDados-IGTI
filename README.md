@@ -24,7 +24,7 @@ O **Trabalho Prático** foi dividido em dois pontos:
 
 O **Desafio** foi dividido em em dois pontos:
 
-1. Análise exploratória de dados para o Dataset [**" Stack Overflow Annual Developer Survey - 2020"**](https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view?usp=sharing);
+1. Análise exploratória de dados para o Dataset [**"Stack Overflow Annual Developer Survey - 2020"**](https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view?usp=sharing);
 
 2. Consultas a um banco de dados utilizando SQL.
 
