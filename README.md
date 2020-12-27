@@ -28,12 +28,12 @@ O **Desafio** foi dividido em em dois pontos:
 
 2. Consultas a um banco de dados utilizando SQL.
 
-## * **Módulo 2** - Coleta e Obtenção de Dados 
+* ## **Módulo 2** - Coleta e Obtenção de Dados 
 
-## * **Módulo 3** - Processamento de Dados Utilizando o Ecossistema Hadoop
+* ## **Módulo 3** - Processamento de Dados Utilizando o Ecossistema Hadoop
 
-## * **Módulo 4** - Técnicas para o Processamento de Big Data
+* ## **Módulo 4** - Técnicas para o Processamento de Big Data
 
-## * **Módulo 5** - Desafio Final
+* ## **Módulo 5** - Desafio Final
 
 
