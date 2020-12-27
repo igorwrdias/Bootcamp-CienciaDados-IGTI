@@ -12,7 +12,7 @@ Seguindo o projeto pedagógico, o Bootcamp Online – IGTI é voltado para a pr�
 
 O conteúdo e as atividades práticas do Bootcamp estão organizados em 5 módulos:
 
-## * **Módulo 1** - Fundamentos 
+* ## **Módulo 1** - Fundamentos 
 
 No **Módulo 1** foram apresentados conceitos iniciais de ciência de dados, processamento paralelo, banco de dados SQL e NoSQL, as diferenças entre os tipos de aprendizado de máquina, versando sobre as diferenças de análise, cases de sucesso e o papel do cientista de dados moderno dentro do mercado de trabalho.
 
